@@ -4,7 +4,7 @@
 * I'm fope and I'm intrested in programming / scripting!
 
 ### 🧠 Currently learning
-* ![](smallgamesense.ico) I'm currently learning lua scripting on gamesense.pub
+* ![](smallgamesense.ico) I'm currently learning lua scripting on roblox
 
 
 ### 🌐 Contact Information
