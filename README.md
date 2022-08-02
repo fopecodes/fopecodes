@@ -8,7 +8,7 @@
 
 
 ### 🌐 Contact Information
-* ![](smalldiscord.png) **Discord** - fope#7831
+* ![](smalldiscord.png) **Discord** - fope#2546
 
 ### 📈 Statistics
 <table>
