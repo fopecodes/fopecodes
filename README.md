@@ -4,7 +4,7 @@
 * I'm fope and I'm intrested in programming / scripting!
 
 ### 🧠 Currently learning
-* ![](small_rust.png=16x16) I'm currently learning lua scripting on roblox
+* I'm currently learning the Rust programming language!
 
 
 ### 🌐 Contact Information
