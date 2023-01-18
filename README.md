@@ -4,7 +4,7 @@
 * I'm fope and I'm intrested in programming / scripting!
 
 ### 🧠 Currently learning
-* I'm currently learning nothing...
+* I'm currently learning to use VPS's and web development
 
 
 ### 🌐 Contact Information
