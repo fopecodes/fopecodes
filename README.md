@@ -4,7 +4,7 @@
 * I'm fope and I'm intrested in programming / scripting!
 
 ### 🧠 Currently learning
-* I'm currently learning the Rust programming language!
+* I'm currently learning nothing...
 
 
 ### 🌐 Contact Information
