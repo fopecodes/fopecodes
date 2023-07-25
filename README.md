@@ -4,11 +4,11 @@
 * I'm fope and I'm intrested in programming / scripting!
 
 ### 🧠 Currently learning
-* Currently learning nothing...
+* nothing...
 
 
 ### 🌐 Contact Information
-* ![](smalldiscord.png) **Discord** - fope#2546
+* ![](smalldiscord.png) **Discord** - fopecodes (934393858366771230)
 
 ### 📈 Statistics
 <table>
