@@ -4,7 +4,7 @@
 * I'm fope and I'm intrested in programming / scripting!
 
 ### 🧠 Currently learning
-* nothing...
+* Learning C# at school...
 
 
 ### 🌐 Contact Information
