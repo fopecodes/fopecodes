@@ -3,10 +3,6 @@
 ### 📝 About Me
 * I'm fope and I'm interested in programming / scripting!
 
-### 🧠 Currently learning
-* Learning C# at school...
-
-
 ### 🌐 Contact Information
 * ![](smalldiscord.png) **Discord** - fopecodes (934393858366771230)
 
