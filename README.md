@@ -15,7 +15,7 @@
 │                                                                      │
 │  PID  NAME         STATUS    DESCRIPTION                             │
 │  001  pulse        active    c++26 tui system monitor                │
-│  002  ir-shooter   active    esp32 + sveltekit shooting game         │
+│  002  ir-shooter   complete  esp32 + sveltekit shooting game         │
 │  003  prism        wip       binary analysis suite                   │
 │  004  homelab      running   rpi5 · grafana · home assistant · dns   │
 │                                                                      │
